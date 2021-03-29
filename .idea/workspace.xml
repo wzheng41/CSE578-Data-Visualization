@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58d0edce-894b-43eb-bd22-cb900bf78994" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d631c112-42ce-4e8a-aff4-71238f6dbca1">
+    <option name="files">
+      <option value="main.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1qOxDbBOAzfjOSjV76CaKnmgChU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58d0edce-894b-43eb-bd22-cb900bf78994" name="Default Changelist" comment="" />
+      <created>1616964318625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616964318625</updated>
+      <workItem from="1616964320084" duration="549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1274" height="183" key="GridCell.Tab.0.bottom" timestamp="1616964774614">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1274" height="183" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1616964774614" />
+    <state width="1274" height="183" key="GridCell.Tab.0.center" timestamp="1616964774613">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1274" height="183" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1616964774613" />
+    <state width="1274" height="183" key="GridCell.Tab.0.left" timestamp="1616964774612">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1274" height="183" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1616964774612" />
+    <state width="1274" height="183" key="GridCell.Tab.0.right" timestamp="1616964774614">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1274" height="183" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1616964774614" />
+    <state x="159" y="28" key="SettingsEditor" timestamp="1616964849094">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="159" y="28" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1616964849094" />
+  </component>
+</project>
